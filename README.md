@@ -114,6 +114,12 @@ Through this project, I practiced:
 
 📷 Dashboard Preview:
 <img width="852" height="424" alt="image" src="https://github.com/user-attachments/assets/8dd298cb-60a0-486f-bb63-e0c3da5ae402" />
+<img width="853" height="437" alt="image" src="https://github.com/user-attachments/assets/ec324aa9-8653-4781-9dcb-f641cf769f25" />
+<img width="853" height="448" alt="image" src="https://github.com/user-attachments/assets/c7fe51c5-b713-4398-bdc7-9a021a967570" />
+<img width="854" height="432" alt="image" src="https://github.com/user-attachments/assets/6ee95cda-f17f-40b3-b8d6-313d47bf1654" />
+
+
+
 
 
 
