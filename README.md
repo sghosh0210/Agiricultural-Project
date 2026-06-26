@@ -1,10 +1,10 @@
 🌱 Green Harvest Seeds India - Sales Data Analysis Dashboard
-📌 Project Overview
+📌 Project Overview: 
 This project demonstrates a complete Data Analytics workflow using Python, Exploratory Data Analysis (EDA), SQL-style data manipulation, and Microsoft Power BI on an agricultural seed sales dataset.
 Since publicly available datasets containing all required business variables were difficult to obtain, the dataset used in this project was synthetically generated using Python. The objective of this project is not to build a production-ready predictive model, but to demonstrate how real-world business data can be cleaned, explored, analyzed, and visualized for decision-making.
 The project simulates the operations of Green Harvest Seeds India Pvt. Ltd., covering multiple business aspects including sales, revenue, profit, inventory, market share, weather, soil conditions, farmer sentiment, and product performance.
 
-📊 Project Objectives
+📊 Project Objectives: 
 Perform comprehensive Exploratory Data Analysis (EDA)
 Identify sales and profitability trends
 Analyze regional and product-wise performance
@@ -12,7 +12,7 @@ The project simulates the operations of Green Harvest Seeds India Pvt. Ltd., cov
 Build an interactive Power BI dashboard for business insights
 Demonstrate a real-world data analytics workflow
 
-⚠️ About the Dataset
+⚠️ About the Dataset: 
 The dataset used in this project is synthetic and was generated using Python because an equivalent public dataset containing all required business variables was unavailable.
 Although the data follows realistic business relationships, some values may not perfectly represent real-world agricultural operations.
 This project should therefore be viewed as a demonstration of:
@@ -23,7 +23,7 @@ This project should therefore be viewed as a demonstration of:
 Insight generation
 rather than an analysis of actual company data.
 
-📁 Dataset Features
+📁 Dataset Features: 
 The dataset contains business information such as:
 Date
 Region
@@ -50,7 +50,7 @@ The dataset contains business information such as:
 Revenue Growth
 The simulated business scenario is based on the corporate profile and analytical requirements described in the accompanying business document.
 
-🛠️ Technologies Used
+🛠️ Technologies Used: 
 Python
 Pandas
 NumPy
@@ -61,7 +61,7 @@ The simulated business scenario is based on the corporate profile and analytical
 Power BI
 Git & GitHub
 
-📈 Exploratory Data Analysis
+📈 Exploratory Data Analysis: 
 The EDA includes:
 Missing value analysis
 Descriptive statistics
@@ -77,7 +77,7 @@ The EDA includes:
 Weather impact analysis
 Feature relationships
 
-📊 Power BI Dashboard
+📊 Power BI Dashboard:
 The dashboard provides interactive insights into:
 Executive KPI Overview
 Total Revenue
@@ -92,14 +92,14 @@ The dashboard provides interactive insights into:
 Revenue Trends
 Interactive Filters and Slicers
 
-🤖 Machine Learning
+🤖 Machine Learning:
 I also experimented with several Machine Learning regression models to predict business outcomes.
 However, since the dataset is synthetically generated and does not perfectly capture real-world statistical relationships, the models did not produce reliable or meaningful predictions.
 Rather than presenting misleading results, I chose to focus on the primary objective of this project:
 Demonstrating strong data analysis, visualization, and business intelligence skills.
 This reflects a realistic data analytics workflow where not every dataset is suitable for predictive modeling.
 
-📌 Key Learnings
+📌 Key Learnings:
 Through this project, I practiced:
 Generating synthetic datasets using Python
 Data preprocessing
@@ -112,7 +112,9 @@ Through this project, I practiced:
 
 
 
-📷 Dashboard Preview
+📷 Dashboard Preview:
+<img width="852" height="424" alt="image" src="https://github.com/user-attachments/assets/8dd298cb-60a0-486f-bb63-e0c3da5ae402" />
+
 
 
 🚀 Future Improvements
