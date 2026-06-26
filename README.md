@@ -123,7 +123,7 @@ Through this project, I practiced:
 
 
 
-🚀 Future Improvements
+🚀 Future Improvements: 
 If a real-world dataset becomes available, future work may include:
 Time Series Forecasting
 Sales Prediction
@@ -133,9 +133,9 @@ If a real-world dataset becomes available, future work may include:
 Price Optimization
 Predictive Analytics using Machine Learning
 
-📄 Disclaimer
+📄 Disclaimer: 
 This project is intended for educational and portfolio purposes only.
 The dataset is synthetically generated and does not represent actual business records. Any insights produced are illustrative and demonstrate analytical techniques rather than real business performance.
 
-⭐ Acknowledgements
+⭐ Acknowledgements: 
 The business scenario is inspired by common challenges faced in the agricultural seed industry, while the dataset was generated programmatically in Python to support data analytics practice.
